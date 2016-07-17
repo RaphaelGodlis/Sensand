@@ -1,0 +1,35 @@
+# Binaries except for windows editor .dll, so that compiles aren't required
+/Binaries/*
+!/Binaries/Win64
+/Binaries/Win64/*
+!/Binaries/Win64/UE4Editor-*.dll
+/Binaries/Win64/UE4Editor-*-DebugGame.dll
+
+# Plugin Intermediate and Binaries except windows editor .dll
+/Plugins/*/Intermediate
+/Plugins/*/Binaries/*
+!/Plugins/*/Binaries/Win64
+/Plugins/*/Binaries/Win64/*
+!/Plugins/*/Binaries/Win64/UE4Editor-*.dll
+/Plugins/*/Binaries/Win64/UE4Editor-*-DebugGame.dll
+
+# Generated project files
+/DerivedDataCache
+/Intermediate
+/Saved
+/Build/Receipts
+/Build/WindowsNoEditor
+*.sdf
+*.sln
+*.v12.suo
+*.opensdf
+*.xcodeproj
+*.xcworkspace/
+*.VC.opendb
+.vs/
+
+# Temporary VS files
+*.TMP
+
+# OS generated files
+Thumbs.db
