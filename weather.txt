@@ -1,0 +1,7 @@
+Monday         Low: 10C  High: 20C
+Tuesday        Low: 10C  High: 20C
+Wednesday  Low: 10C  High: 20C
+Thursday      Low: 10C  High: 20C
+Friday            Low: 10C  High: 20C
+Saturday       Low: 10C  High: 20C
+Sunday          Low: 10C  High: 20C
