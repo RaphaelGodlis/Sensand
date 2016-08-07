@@ -9,7 +9,7 @@
 /Plugins/*/Intermediate
 /Plugins/*/Binaries/*
 !/Plugins/*/Binaries/Win64
-/Plugins/*/Binaries/Win64/*
+!/Plugins/*/Binaries/Win64/*
 !/Plugins/*/Binaries/Win64/UE4Editor-*.dll
 /Plugins/*/Binaries/Win64/UE4Editor-*-DebugGame.dll
 
